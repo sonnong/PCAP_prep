@@ -19,7 +19,7 @@ Improved Caesar cipher:
 - Asks the user for a shift value (an integer number from the range 1..25 - note: you should force the user to enter a valid shift value;
 - Prints out the encoded text.
         
-## 05_palindrome.py
+## [05_palindrome.py](https://github.com/sonnong/PCAP_prep/blob/master/05_palindrome.py)
 Write a program which:
 - Asks the user for some text;
 - Checks whether the entered text is a palindrome, and prints result.
