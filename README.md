@@ -24,7 +24,7 @@ Write a program which:
 - Asks the user for some text;
 - Checks whether the entered text is a palindrome, and prints result.
         
-## 06_anagram.py
+## [06_anagram.py](https://github.com/sonnong/PCAP_prep/blob/master/06_anagram.py)
 Write a program which:
 - Asks the user for two separate texts;
 - Checks whether, the entered texts are anagrams and prints the result.
