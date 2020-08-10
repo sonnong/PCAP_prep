@@ -4,7 +4,7 @@ My solutions for PCAP Prep course works by Python Institute on Cisco Networking 
 ## [01_tik_tak_toe.py](https://github.com/sonnong/PCAP_prep/blob/master/01_tik-tak-toe.py)
 Write a simple program which pretends to play tic-tac-toe with the user.
 
-## 02_my_split.py
+## [02_my_split.py](https://github.com/sonnong/PCAP_prep/blob/master/02_my_split.py)
 Write your own function, which behaves almost exactly like the original split() method, i.e.:
 - Accept exactly one argument - a string;
 - Return a list of words created from the string, divided in the places where the string contains whitespaces;
