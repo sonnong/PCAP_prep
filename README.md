@@ -1,7 +1,7 @@
 # PCAP_prep
 My solutions for PCAP Prep course works by Python Institute on Cisco Networking Academy.
     
-## 01_tik_tak_toe.py
+## [01_tik_tak_toe.py](https://github.com/sonnong/PCAP_prep/blob/master/01_tik-tak-toe.py)
 Write a simple program which pretends to play tic-tac-toe with the user.
 
 ## 02_my_split.py
