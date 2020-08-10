@@ -29,26 +29,26 @@ Write a program which:
 - Asks the user for two separate texts;
 - Checks whether, the entered texts are anagrams and prints the result.
     
-## 07_digit_of_life.py
+## [07_digit_of_life.py](https://github.com/sonnong/PCAP_prep/blob/master/07_digit_of_life.py)
 Write a program which:
 - Asks the user her/his birthday (in the format YYYYMMDD, or YYYYDDMM, or MMDDYYYY - actually, the order of the digits doesn't matter);
 - Outputs the Digit of Life for the date.
     
-## 08_find_a_word.py
+## [08_find_a_word.py](https://github.com/sonnong/PCAP_prep/blob/master/08_find_a_word.py)
 Write a program which answers the following question: are the characters comprising the first string hidden inside the second string?
 
-## 09_sudoku.py
+## [09_sudoku.py](https://github.com/sonnong/PCAP_prep/blob/master/09_sudoku.py)
 Write a program which:
 - Reads 9 rows of the Sudoku, each containing 9 digits (check carefully if the data entered are valid);
 - Outputs Yes if the Sudoku is valid, and No otherwise.
     
-## 10_character_frequency_histogram.py
+## [10_character_frequency_histogram.py](https://github.com/sonnong/PCAP_prep/blob/master/10_character_frequency_histogram.py)
 Write a program which:
 - Asks the user for the input file's name;
 - Reads the file (if possible) and counts all the Latin letters (lower- and upper-case letters are treated as equal);
 - Prints a simple histogram in alphabetical order (only non-zero counts should be presented).
     
-## 11_evaluating_students_results.py
+## [11_evaluating_students_results.py](https://github.com/sonnong/PCAP_prep/blob/master/11_evaluating_students_results.py)
 Write a program which:
 - Asks the user for Prof. Jekyll's file name;
 - Reads the file contents and counts the sum of the received points for each student;
